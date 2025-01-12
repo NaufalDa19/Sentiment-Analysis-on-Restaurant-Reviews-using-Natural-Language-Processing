@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-Restaurant-Reviews-using-Natural-Language-Processing
+Proyek ini menggunakan Natural Language Processing (NLP) untuk mengklasifikasikan ulasan restoran sebagai positif (suka) atau negatif (tidak suka). Data diolah dengan tokenisasi, penghapusan stop-word, dan stemming, lalu diprediksi menggunakan model pembelajaran mesin seperti Naive Bayes, Logistic Regression atau model machine learning lainnya.
